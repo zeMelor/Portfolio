@@ -1,5 +1,5 @@
 # Portfolio
-# Привет! Я Ришат Зиннатуллин 👋
+# Привет! Я  - Ришат Зиннатуллин 👋
 
 **ML-разработчик | Data Scientist**
 
@@ -19,5 +19,7 @@
 
 ### 📫 Контакты и ссылки
 * **Telegram:** [@zeMelor](https://t.me/zeMelor)
+* **ORCID:** [Мой профиль](https://orcid.org/0009-0005-1252-0630)
+* **OpenReview:** [Rishat Zinnatullin](https://openreview.net/profile?id=%7ERishat_Zinnatullin2)
 * **Kaggle:** [zemelor (разбор решения DataFusion 2026)](https://www.kaggle.com/code/zemelor/datafusion2026)
 * **Email:** zinnatullin0703@gmail.com / zinnatullin2006@inbox.ru
